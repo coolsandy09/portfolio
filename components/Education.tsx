@@ -7,7 +7,7 @@ const EDUCATION = [
     {
         degree: "B.E. in Computer Science",
         institution: "CMR Institute of Technology, Bengaluru",
-        period: "2018 – 2022",
+        period: "2017 – 2021",
         description:
             "Focused on Data Structures, Algorithms, Database Management Systems, and Software Engineering. Published IEEE research paper on Tirhuta character recognition. Graduated with First Class Distinction.",
         icon: GraduationCap,
@@ -15,7 +15,7 @@ const EDUCATION = [
     {
         degree: "+2 / Intermediate (Science)",
         institution: "Nepal",
-        period: "2016 – 2018",
+        period: "2015 – 2017",
         description:
             "Completed higher secondary education with focus on Science and Mathematics, building the foundation for engineering studies.",
         icon: BookOpen,
@@ -23,7 +23,7 @@ const EDUCATION = [
     {
         degree: "SLC (Secondary Level Certificate)",
         institution: "Nepal",
-        period: "Completed 2016",
+        period: "Completed 2015",
         description:
             "Successfully completed the nationally recognized School Leaving Certificate examination, marking the beginning of the academic journey.",
         icon: School,
